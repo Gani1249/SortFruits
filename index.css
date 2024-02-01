@@ -1,0 +1,29 @@
+body{
+    text-align: center;
+    margin:0;
+    padding: 0;
+    background-color: rgba(199, 227, 243, 0.889);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
+div{
+    width: 300px;
+    height: 30px;
+    background-color: rgb(88, 156, 216);
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+#fruits-list{
+    width: 300px;
+    height: 50px;
+    background-color: rgb(88, 156, 216);
+    margin: 0 auto;
+    margin-bottom: 20px;
+}
+button{
+    width:150px;
+    height:30px;
+    background-color: rgb(223, 79, 79);
+    font-family: 'Courier New', Courier, monospace;
+    font-weight: bold;
+}
